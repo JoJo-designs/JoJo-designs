@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @JoJo-designs
+- 👋 Hi, I’m Jodi Ladoucer and @JoJo-designs on github.
 
-- 👀 I’m interested in web development and graphic design. I like sailing and music. I am not really picky about the genre of music but when I am codeing I tend to  listen to music in another lauguage. I like to watch anime, reading manga, and playing video games. When it is nice outside I sometimes go and ride my longboard along a waterfront trail in my area. 
+- 👀 I’m interested in web development and graphic design. I enjoy music and sailing and when it is nice I sometimes take my dog for a walk or go on a ride on my longboard. 
 
-- 🌱 I’m currently learning how to use node.js to run a javascript file on my computer without a web broswer. I am going to start a project that will use javascript and node to build a generator that will make good quility readme files.
+- 🌱 I’m currently looking for oppertunityies to work and improve my skills. I feel a little more confortables with front-end technogies like HtMl CSS and React, but I want to try and push myself alittle more into the backend technolgies.
 
 - 💞️ I’m looking to collaborate on. I have nothing at the moment but I'm sure that will change.
 
-- 📫 How to reach me you can reach me by email at jodiladouceur.design@gmail.com
+- 📫 How to reach me you can reach me by email at jodiladouceur.design@gmail.com or on linkedIn at https://www.linkedin.com/in/jodi-ladouceur/
 
 <!---
 JoJo-designs/JoJo-designs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
